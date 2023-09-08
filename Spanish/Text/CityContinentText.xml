@@ -58,7 +58,7 @@
             <Requirements>
                 <ListenerFaction>FACTION_TERRAN</ListenerFaction>
             </Requirements>
-            <Text>Antarctica</Text>
+            <Text>Antártica</Text>
             <PreferenceWeight>100</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
