@@ -22,7 +22,7 @@
   </StringTable>
   <StringTable>
     <Label>BATTLE_TITLE_MASSACRE</Label>
-    <String>Masacre en {DEFENDER_NAME}</String>
+    <String>Masacre de {DEFENDER_NAME}</String>
   </StringTable>
   <StringTable>
     <Label>BATTLE_TITLE_A_PYRRHIC_VICTORY</Label>
