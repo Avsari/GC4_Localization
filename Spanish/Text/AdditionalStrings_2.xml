@@ -26,7 +26,7 @@
   </StringTable>
   <StringTable>
     <Label>NocturnalAbility_SeasonOfDreamingDescription</Label>
-    <String>Desarrollado para funcionar en ciclos, cada uno durando 15 meses.[BR][BR]Temporada de Sueños: [HS=HS_Research]Investigación[/HS] e [HS=HS_Influence]Influencia[/HS] son impulsadas. [BR][BR]{AMOUNT} meses restantes.</String>
+    <String>Desarrollado para funcionar en ciclos, cada uno durando 15 meses.[BR][BR]Temporada de Sueños: [HS=HS_Research]Investigación[/HS] e [HS=HS_Influence]Influencia[/HS] son impulsados. [BR][BR]{AMOUNT} meses restantes.</String>
   </StringTable>
   <StringTable>
     <Label>AllianceAscendant_CampaignName</Label>
@@ -34,7 +34,7 @@
   </StringTable>
   <StringTable>
     <Label>AllianceAscendant_CampaignDec</Label>
-    <String>El año es 2307. Han pasado décadas desde que la Alianza Terran y su coalición lograron liberar al universo conocido del malvado Imperio Drengin y sus esclavos.[BR][BR]La galaxia se encuentra en paz (a excepción de la continua proliferación de Hyperdrive, que permite a algunas de las "civilizaciones menores" agresivas unirse al escenario galáctico.)[BR][BR]Hoy encontramos a DL Bradley a cargo del sistema Leathon y sus estrellas vecinas. Los rumores indican que una nueva civilización, los Xeloxi, está atacando cargueros y extorsionando a civiles para que paguen dinero de protección. Si estos rumores son ciertos, entonces algo debe hacerse...</String>
+    <String>El año es 2307. Han pasado décadas desde que la Alianza Terrana y su coalición lograron liberar al universo conocido del malvado Imperio Drengin y sus esclavos.[BR][BR]La galaxia se encuentra en paz (a excepción de la continua proliferación del Hiperimpulsor, que permite a algunas de las "civilizaciones menores" agresivas unirse al escenario galáctico.)[BR][BR]Hoy encontramos a DL Bradley a cargo del sistema Leathon y sus estrellas vecinas. Los rumores indican que una nueva civilización, los Xeloxi, está atacando cargueros y extorsionando a civiles para que paguen dinero de protección. Si estos rumores son ciertos, entonces algo debe hacerse...</String>
   </StringTable>
   <StringTable>
     <Label>Campaign_AllianceAscendant_Overall</Label>
@@ -66,7 +66,7 @@
   </StringTable>
   <StringTable>
     <Label>FACTION_TERRAN_Campaign_AllianceAscendant_StartupDescription</Label>
-    <String>Han pasado décadas desde el último conflicto galáctico. Los sistemas conocidos han estado más o menos en paz. Sin embargo, ha habido un cambio; hay informes de que una nueva civilización está llevando a cabo negocios menos que legítimos. El rumor es que los Xeloxi, anteriormente desconocidos, son responsables. La Alianza Terran debe intervenir, traer estabilidad al sistema y lidiar con este grupo Xeloxi.[BR][BR]Las Civilizaciones Menores han sido las más perjudicadas, por lo que una prioridad debería ser traerlas bajo la influencia de la Alianza. Una vez que estén seguras y se corte el flujo de recursos mal obtenidos de los Xeloxi, se puede lidiar con los Xeloxi.</String>
+    <String>Han pasado décadas desde el último conflicto galáctico. Los sistemas conocidos han estado más o menos en paz. Sin embargo, ha habido un cambio; hay informes de que una nueva civilización está llevando a cabo negocios menos que legítimos. El rumor es que los Xeloxi, anteriormente desconocidos, son responsables. La Alianza Terrana debe intervenir, traer estabilidad al sistema y lidiar con este grupo Xeloxi.[BR][BR]Las Civilizaciones Menores han sido las más perjudicadas, por lo que una prioridad debería ser traerlas bajo la influencia de la Alianza. Una vez que estén seguras y se corte el flujo de recursos mal obtenidos de los Xeloxi, se puede lidiar con los Xeloxi.</String>
   </StringTable>
   <StringTable>
     <Label>FACTION_TERRAN_Campaign_AllianceAscendant_StartupTraitsDescription</Label>
@@ -78,11 +78,11 @@
   </StringTable>
   <StringTable>
     <Label>Terran_AllianceAscendant_System_Name</Label>
-    <String>Leathon System</String>
+    <String>Sistema Leathon</String>
   </StringTable>
   <StringTable>
     <Label>Terran_AllianceAscendant_System_Dec</Label>
-    <String>The Leathon system has a class 28 planet perfect for a human colony, making it the ideal location to establish a base.</String>
+    <String>Elsistema Leathon tiene un planeta clase 28 perfecto para una colonia humana, haciéndolo el lugar ideal para estblecer una base.</String>
   </StringTable>
   <StringTable>
     <Label>Terran_AllianceAscendant_Star_Name</Label>
@@ -90,7 +90,7 @@
   </StringTable>
   <StringTable>
     <Label>Terran_AllianceAscendant_Homeworld_Name</Label>
-    <String>Leathon Prime</String>
+    <String>Leathon Primo</String>
   </StringTable>
   <StringTable>
     <Label>Terran_AllianceAscendant_DeadPlanet1_Name</Label>
@@ -114,11 +114,11 @@
   </StringTable>
   <StringTable>
     <Label>PillageTheWeak_Name</Label>
-    <String>Pillage the Weak</String>
+    <String>Despoja a los Débiles</String>
   </StringTable>
   <StringTable>
     <Label>PillageTheWeak_Dec</Label>
-    <String>Envía nuestros Recolectores a través de la población para tomar lo que se necesita para el imperio de aquellos demasiado débiles para resistir.</String>
+    <String>Envía nuestros Recolectores a través de la población para tomar lo que se necesita para el imperio, de aquellos demasiado débiles para resistir.</String>
   </StringTable>
   <StringTable>
     <Label>Quest_CrushedOurEggs_Name</Label>
@@ -126,7 +126,7 @@
   </StringTable>
   <StringTable>
     <Label>Quest_CrushedOurEggs_Dec</Label>
-    <String>Hemos recibido un informe de que decidiste destruir algunos 'bichos' en el planeta {PLANETNAME}. ¡Esa era una de nuestras criaderos! ¡Harás pagar por esto!</String>
+    <String>Hemos recibido un informe de que decidiste destruir algunos 'bichos' en el planeta {PLANETNAME}. ¡Ese era una de nuestras criaderos! ¡Pagarás por esto!</String>
   </StringTable>
   <StringTable>
     <Label>Quest_CrushedOurEggs_Choice_Name</Label>
@@ -222,7 +222,7 @@
   </StringTable>
   <StringTable>
     <Label>Quest_CrystalGenocide_Dec</Label>
-    <String>En el planeta {PLANETNAME}, masacraste a los nuestros -- los cristales sensibles. Cada fragmento roto es una vida perdida, una conciencia silenciada. Los ecos de esta atrocidad resonarán en el universo, y nuestra angustia es infinita.</String>
+    <String>En el planeta {PLANETNAME}, masacraste a los nuestros, los cristales sensibles. Cada fragmento roto es una vida perdida, una conciencia silenciada. Los ecos de esta atrocidad resonarán en el universo, y nuestra angustia es infinita.</String>
   </StringTable>
   <StringTable>
     <Label>Quest_CrystalGenocide_Choice_Name</Label>
@@ -250,7 +250,7 @@
   </StringTable>
   <StringTable>
     <Label>Quest_DigitalDelight_Name</Label>
-    <String>Debilitado los Carneles</String>
+    <String>Debilitado los Carnales</String>
   </StringTable>
   <StringTable>
     <Label>Quest_DigitalDelight_Dec</Label>
@@ -542,7 +542,7 @@
   </StringTable>
   <StringTable>
     <Label>PirateCutter_Name</Label>
-    <String>Cortador Pirata</String>
+    <String>Cúter Pirata</String>
   </StringTable>
   <StringTable>
     <Label>Event_GovernorEvent_RareResource_0x62A3_Name</Label>
@@ -818,7 +818,7 @@
   </StringTable>
   <StringTable>
     <Label>Event_AlienTradeAgreement_Choice_2_0xJ6D2_Name</Label>
-    <String>Nope. No gracias.</String>
+    <String>Nel. No gracias.</String>
   </StringTable>
   <StringTable>
     <Label>Event_AlienTradeAgreement_Choice_2_0xJ6D2_Dec</Label>
@@ -1066,7 +1066,7 @@
   </StringTable>
   <StringTable>
     <Label>Event_DreamSpyingAccusation_0x8C3D_Choice1_Name</Label>
-    <String>Puedes tener la Antimateria pero dudo que ayude.</String>
+    <String>Puedes tener la Antimateria, pero dudo que ayude.</String>
   </StringTable>
   <StringTable>
     <Label>Event_DreamSpyingAccusation_0x8C3D_Choice1_Dec</Label>
@@ -1094,11 +1094,11 @@
   </StringTable>
   <StringTable>
     <Label>Event_WarProfiteerDeal_0xA12F_Dec</Label>
-    <String>Nosotros, los {PLAYERFACTIONLONG:1}, hemos encontrado cierto... hardware militar extra. Pensamos que podrías estar interesado. Estas armas fortalecerán significativamente tus capacidades bélicas. Sin embargo, recuerda, tales acuerdos permanecen entre nosotros. ¿Tenemos un trato?</String>
+    <String>Nosotros, los {PLAYERFACTIONLONG:1}, hemos encontrado cierto... equipo militar extra. Pensamos que podrías estar interesado. Estas armas fortalecerán significativamente tus capacidades bélicas. Sin embargo, recuerda, tales acuerdos permanecen entre nosotros. ¿Tenemos un trato?</String>
   </StringTable>
   <StringTable>
     <Label>Event_WarProfiteerDeal_0xA12F_Choice1_Name</Label>
-    <String>¿Mejores armas en nuestros barcos? Sí. Sí, por favor.</String>
+    <String>¿Mejores armas en nuestras naves? Sí. Sí, por favor.</String>
   </StringTable>
   <StringTable>
     <Label>Event_WarProfiteerDeal_0xA12F_Choice1_Dec</Label>
@@ -1106,7 +1106,7 @@
   </StringTable>
   <StringTable>
     <Label>Event_WarProfiteerDeal_0xA12F_Choice2_Name</Label>
-    <String>Debemos pasar de esto.</String>
+    <String>Debemos pasar en esto.</String>
   </StringTable>
   <StringTable>
     <Label>Event_WarProfiteerDeal_0xA12F_Choice2_Dec</Label>
@@ -1242,7 +1242,7 @@
   </StringTable>
   <StringTable>
     <Label>Planet_Vigil_Name</Label>
-    <String>Vigilia</String>
+    <String>Vigil</String>
   </StringTable>
   <StringTable>
     <Label>Planet_Obscuritas_Name</Label>
@@ -1286,11 +1286,11 @@
   </StringTable>
   <StringTable>
     <Label>SeeingDroneFighter_Name</Label>
-    <String>Luchador de Drones</String>
+    <String>Dron Caza</String>
   </StringTable>
   <StringTable>
     <Label>SeeingGuardianFighter_Name</Label>
-    <String>Luchador Guardián</String>
+    <String>Caza Guardián</String>
   </StringTable>
   <StringTable>
     <Label>SeeingSpearman_Name</Label>
@@ -1358,7 +1358,7 @@
   </StringTable>
   <StringTable>
     <Label>SeeingCruiser_Name</Label>
-    <String>Resentimiento del Vigía</String>
+    <String>Resentimiento del Vigilante</String>
   </StringTable>
   <StringTable>
     <Label>SeeingCruiserEnhanced_Name</Label>
@@ -1418,7 +1418,7 @@
   </StringTable>
   <StringTable>
     <Label>SeeingAssaultCarrier_Name</Label>
-    <String>Portaaviones de Asalto</String>
+    <String>Portadrones de Asalto</String>
   </StringTable>
   <StringTable>
     <Label>SeeingColony_Name</Label>
@@ -1430,19 +1430,19 @@
   </StringTable>
   <StringTable>
     <Label>SeeingUnitTransport_Name</Label>
-    <String>Transporte de Aggregate</String>
+    <String>Transporte de Agregados</String>
   </StringTable>
   <StringTable>
     <Label>SeeingWorker_Name</Label>
-    <String>Suministros de Aggregate</String>
+    <String>Suministros de Agregados</String>
   </StringTable>
   <StringTable>
     <Label>SeeingFreighter_Name</Label>
-    <String>Comerciante del Aggregate</String>
+    <String>Comerciante de Agregados</String>
   </StringTable>
   <StringTable>
     <Label>SeeingTransport_Name</Label>
-    <String>Transporte de Aggregate</String>
+    <String>Transporte de Agregados</String>
   </StringTable>
   <StringTable>
     <Label>SeeingSiege_Name</Label>
@@ -1458,7 +1458,7 @@
   </StringTable>
   <StringTable>
     <Label>Thinktank_CollectiveConsciousness_Dec</Label>
-    <String>Potenciar la fuerza y cohesión de la conciencia colectiva.</String>
+    <String>Potenciar la fuerza y cohesión de la consciencia colectiva.</String>
   </StringTable>
   <StringTable>
     <Label>Component_SensorRange20_Name</Label>
@@ -1490,7 +1490,7 @@
   </StringTable>
   <StringTable>
     <Label>SeeingStar_Label</Label>
-    <String>Pira Prime</String>
+    <String>Pira Primo</String>
   </StringTable>
   <StringTable>
     <Label>TheOpportunity_CampaignName</Label>
@@ -1646,7 +1646,7 @@
   </StringTable>
   <StringTable>
     <Label>Campaign_Tutorail_Overall</Label>
-    <String>Asegura el Sector para la Alianza Terran</String>
+    <String>Asegura el Sector para la Alianza Terrana</String>
   </StringTable>
   <StringTable>
     <Label>Campaign_Tutorail_FindCoreWorld</Label>
@@ -1674,7 +1674,7 @@
   </StringTable>
   <StringTable>
     <Label>Event_Campaign_Tutorial_Intro_Dec</Label>
-    <String>En 2178, los humanos de una Tierra Unida desarrollaron sistemas de Propulsión Hiperimpulsiva, descubriendo el viaje más rápido que la luz.[BR][BR]La humanidad ya había establecido contacto interestelar con dos civilizaciones: Los Korx y el Imperio Arcean. Algunos científicos, ansiosos por compartir sus descubrimientos, transmiten las especificaciones de los nuevos sistemas de propulsión a los Arceans y los Korx. Ambos grupos quedan en silencio inmediatamente después de recibir las especificaciones de esta nueva tecnología. La Tierra queda sola en el universo una vez más.[BR][BR]Eres el Comandante DL Bradley, líder de la recién formada Alianza Terrana. Este grupo ha sido creado para supervisar la exploración tripulada del espacio y la colonización de nuevos planetas. La nueva Propulsión Hiperimpulsiva de la humanidad hace posibles tales grandes ambiciones.[BR][BR]Desafortunadamente, debes lidiar con una nueva amenaza: Piratas. Un grupo de terroristas</String>
+    <String>En 2178, los humanos de una Tierra Unida desarrollaron sistemas de Propulsión Hiperimpulsora, descubriendo el viaje más rápido que la luz.[BR][BR]La humanidad ya había establecido contacto interestelar con dos civilizaciones: Los Korx y el Imperio Arcean. Algunos científicos, ansiosos por compartir sus descubrimientos, transmiten las especificaciones de los nuevos sistemas de propulsión a los Arceans y los Korx. Ambos grupos quedan en silencio inmediatamente después de recibir las especificaciones de esta nueva tecnología. La Tierra queda sola en el universo una vez más.[BR][BR]Eres el Comandante DL Bradley, líder de la recién formada Alianza Terrana. Este grupo ha sido creado para supervisar la exploración tripulada del espacio y la colonización de nuevos planetas. La nueva Propulsión Hiperimpulsiva de la humanidad hace posibles tales grandes ambiciones.[BR][BR]Desafortunadamente, debes lidiar con una nueva amenaza: Piratas. Un grupo de terroristas</String>
   </StringTable>
   <StringTable>
     <Label>Event_Campaign_Tutorial_ColonizedGovernablePlanet_Name</Label>
@@ -1686,7 +1686,7 @@
   </StringTable>
   <StringTable>
     <Label>Event_Campaign_Tutorial_ColonizedTargetPlanetsNoCoreworld_Name</Label>
-    <String>Busca un Mundo Núcleo</String>
+    <String>Busca un Mundo Central</String>
   </StringTable>
   <StringTable>
     <Label>Event_Campaign_Tutorial_CanUseCabinet_Name</Label>
@@ -1790,11 +1790,11 @@
   </StringTable>
   <StringTable>
     <Label>SUMMARY_TAB_COREWORLDS_TOOLTIP</Label>
-    <String>Esta es una cuenta de los Mundos Núcleo que tu Civilización controla.[BR][BR]Los Mundos Núcleo son planetas con un Gobernador asignado que pueden ser mejorados y soportar un Astillero. Un planeta debe ser Clase 10 o superior para ser convertido en un Mundo Núcleo.</String>
+    <String>Esta es una cuenta de los Mundos Centrales que tu Civilización controla.[BR][BR]Los Mundos Centrales son planetas con un Gobernador asignado que pueden ser mejorados y soportar un Astillero. Un planeta debe ser Clase 10 o superior para ser convertido en un Mundo Central.</String>
   </StringTable>
   <StringTable>
     <Label>SUMMARY_TAB_COLONIES_TOOLTIP</Label>
-    <String>Esta es una cuenta de las Colonias que controla tu Civilización.[BR][BR]Una colonia es cualquier planeta que ha sido colonizado y no está administrado por un Gobernador. Las Colonias proporcionan Input adicional al Mundo Central más cercano para mejorar el Output del Mundo Central.</String>
+    <String>Esta es una cuenta de las Colonias que controla tu Civilización.[BR][BR]Una colonia es cualquier planeta que ha sido colonizado y no está administrado por un Gobernador. Las Colonias proporcionan Aporte adicional al Mundo Central más cercano para mejorar la Producción del Mundo Central.</String>
   </StringTable>
   <StringTable>
     <Label>SUMMARY_TAB_POPULATION_TOOLTIP</Label>
@@ -2010,15 +2010,15 @@
   </StringTable>
   <StringTable>
     <Label>Campaign_BraveNewUniverse_Overall_Dec</Label>
-    <String>La Alianza Terran está en el centro de una situación delicada. Un paso en falso podría llevar a una guerra que dejaría innumerables muertos. Se debe evitar la guerra total por todos los medios necesarios. Es posible que algún conflicto sea inevitable, pero no se debe buscar. Consigue una [HS=HS_AllianceVictory]Victoria de la Alianza[/HS] aliándote con todas las demás civilizaciones principales.</String>
+    <String>La Alianza Terrana está en el centro de una situación delicada. Un paso en falso podría llevar a una guerra que dejaría innumerables muertos. Se debe evitar la guerra total por todos los medios necesarios. Es posible que algún conflicto sea inevitable, pero no se debe buscar. Consigue una [HS=HS_AllianceVictory]Victoria de la Alianza[/HS] aliándote con todas las demás civilizaciones principales.</String>
   </StringTable>
   <StringTable>
     <Label>FACTION_TERRAN_Campaign_BraveNewUniverse_StartupDescription</Label>
-    <String>A través del uso del Streaming Subespacial, se ha establecido contacto con nuevas Civilizaciones. Entre ellas se encuentra el Dominio Luxar, que desarrolló la tecnología de hiperimpulsión de forma independiente, como lo hizo la Alianza Terran. Parecen prominentes y poderosos.[BR][BR]La Alianza Terran se encuentra ahora en una situación delicada. Las acciones de la Alianza aquí pueden dar forma a la relación entre las dispares Civilizaciones. Un paso en falso aquí puede llevar a una devastadora guerra.[BR][BR]La Alianza Terran debe usar su influencia para mantener la paz y formar relaciones saludables.</String>
+    <String>A través del uso de ls corriente Subespacial, se ha establecido contacto con nuevas Civilizaciones. Entre ellas se encuentra el Dominio Luxar, que desarrolló la tecnología de hiperimpulsión de forma independiente, como lo hizo la Alianza Terran. Parecen prominentes y poderosos.[BR][BR]La Alianza Terraan se encuentra ahora en una situación delicada. Las acciones de la Alianza aquí pueden dar forma a la relación entre las dispares Civilizaciones. Un paso en falso aquí puede llevar a una devastadora guerra.[BR][BR]La Alianza Terran debe usar su influencia para mantener la paz y formar relaciones saludables.</String>
   </StringTable>
   <StringTable>
     <Label>FACTION_TERRAN_Campaign_BraveNewUniverse_StartupTraitsDescription</Label>
-    <String>La Alianza Terran puede utilizar la diplomacia y el poder militar para influir en las civilizaciones a su alrededor. Puede ser necesario algún conflicto, pero se debe sofocar y evitar siempre que sea posible. Cualquier cosa que no sea una Victoria de Influencia aquí amenaza toda la vida en la Galaxia.</String>
+    <String>La Alianza Terrana puede utilizar la diplomacia y el poder militar para influir en las civilizaciones a su alrededor. Puede ser necesario algún conflicto, pero se debe sofocar y evitar siempre que sea posible. Cualquier cosa que no sea una Victoria de Influencia aquí amenaza toda la vida en la Galaxia.</String>
   </StringTable>
   <StringTable>
     <Label>FACTION_TERRAN_Campaign_BraveNewUniverse_StartupTitle</Label>
